@@ -53,7 +53,7 @@ python tab.py
 ---
 
 ## 📥 Download as ZIP
-You can download the project as a ZIP file directly from the [Releases Section](https://github.com/sadiyabhokare/Window_Switch/releases) or [click here](https://github.com/sadiyabhokare/Window_Switch/archive/refs/heads/main.zip) to download ZIP
+You can download the project as a ZIP file directly from the [Releases Section](https://github.com/sadiyabhokare/Window_Switch/releases) or [click here](https://github.com/sadiyabhokare/Window_Switch/archive/refs/heads/main.zip) to download ZIP.
 
 ---
 
