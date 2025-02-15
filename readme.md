@@ -40,7 +40,7 @@ git clone https://github.com/sadiyabhokare/Window_Switch.git
 
 ### 2. Install Dependencies
 ```bash
-pip install opencv-python mediapipe pyautogui numpy
+pip install -r requirements.txt
 ```
 
 ### 3. Run the Project
@@ -65,12 +65,8 @@ You can download the project as a ZIP file directly from the [Releases Section](
 ---
 
 ## 🧑‍💻 Author
-- **Your Name** – [Your GitHub](https://github.com/sadiyabhokare)
+- **Sadiya Bhokare** – (https://github.com/sadiyabhokare)
 
 ---
 
 🔗 Feel free to contribute, raise issues, and improve this project! 😊
-
----
-
-Make sure to upload a ZIP version of your project to your GitHub repository’s **Releases** section or link directly to a ZIP file. Let me know if you need help with that! 🚀
